@@ -9,7 +9,7 @@ AI.prototype.eval = function() {
   var smoothWeight = 0.1,
       //monoWeight   = 0.0,
       //islandWeight = 0.0,
-      mono2Weight  = 1.0,
+      mono2Weight  = 3.0, 
       emptyWeight  = 2.7,
       maxWeight    = 1.0;
 
